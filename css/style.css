@@ -1,0 +1,101 @@
+*{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px; 
+}
+body{
+    background-color: #00171f;
+}
+header{
+    background-color: #003459;
+    height: 100px;
+    width: 100%;       
+}
+
+#txtBusca{
+    background-color: #00a8e8;
+    border-radius: 35px;
+    width: 200px;
+    height: 25px;
+}
+#btnBusca{
+    width: 21.5px;
+    height: 16.5px;
+    position: absolute;
+    margin-left:-30px;
+    margin-top:4px;
+}
+#divBusca{
+    height: 30px;
+    width: 240px;
+    float: right;
+    margin-right: 30px;
+    margin-top: 35px;
+}
+#imga{
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-left: 5px;
+}
+#titulo{
+margin-top: 30px;
+}
+
+#slider img{
+    background-color: #00171f;
+    width: 1600px;
+    height: 400px;
+    margin-top: 3vh;
+    margin-left: 17vh;
+    margin-bottom: 50px;
+}
+
+.container{
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+    transform: translateX(0);
+}
+
+#line{
+margin-left: 320px;
+    
+}
+#acao{
+    width: 350px;
+    height: 50px;
+    margin-left: 150px;
+    margin-top: 35px;
+}
+#idAcao{
+    color: white;
+}
+
+#produtos{
+    height: 400px;
+    width: 1600px;
+    background-color: #003459;
+    margin-top: 35px;
+    margin-left: 17vh;
+    margin-right: 17vh;
+    padding-top: 50px;
+}
+#cardProduto{
+    margin-left: 100px;
+    margin-right: 125px;
+    width: 300px;
+    height: 360px;
+    
+    float: left;
+} 
+#corrida{
+    width: 350px;
+    height: 50px;
+    margin-left: 150px;
+    margin-top: 35px;
+}
+#idcorrida{
+    color: white;
+}
+
+
